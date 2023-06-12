@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Code\\covid-19\\COVID-19-Prediction-master\\COVID-19 Prediction Code\\disease severity prediction\\pth(final)\\2D-CNN\\ElasticNetCV-LassoCV\\feature_number7\\train.tfl"
+all_model_checkpoint_paths: "D:\\Code\\covid-19\\COVID-19-Prediction-master\\COVID-19 Prediction Code\\disease severity prediction\\pth(final)\\2D-CNN\\ElasticNetCV-LassoCV\\feature_number7\\train.tfl"

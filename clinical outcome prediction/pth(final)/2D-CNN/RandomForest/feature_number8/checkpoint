@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\covid19\\COVID-19(\346\234\254\345\234\260\345\244\207\344\273\275\347\211\210)\\COVID-19 Prediction Code\\clinical outcome prediction\\pth(final)\\2D-CNN\\RandomForest\\feature_number8\\train.tfl"
+all_model_checkpoint_paths: "D:\\covid19\\COVID-19(\346\234\254\345\234\260\345\244\207\344\273\275\347\211\210)\\COVID-19 Prediction Code\\clinical outcome prediction\\pth(final)\\2D-CNN\\RandomForest\\feature_number8\\train.tfl"
