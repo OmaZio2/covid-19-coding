@@ -2,27 +2,27 @@
 
 - **clinical outcome prediction**
 
-![](C:\Users\Win\Desktop\临时存放图片\1_LDH.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Outcome_with_wbound/1_LDH.png)
 
-![4_hs-CRP](C:\Users\Win\Desktop\临时存放图片\4_hs-CRP.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Outcome_with_wbound/4_hs-CRP.png)
 
-![3_Urea](C:\Users\Win\Desktop\临时存放图片\3_Urea.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Outcome_with_wbound/3_Urea.png)
 
-![5_Platelet count](D:\COVID-19 Prediction Code\monofactor analysis\Outcome_with_wbound\5_Platelet count.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Outcome_with_wbound/5_Platelet%20count.png)
 
-![2_Neutrophil](D:\COVID-19 Prediction Code\monofactor analysis\Outcome_with_wbound\2_Neutrophil.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Outcome_with_wbound/2_Neutrophil.png)
 
 - **disease severity prediction**
 
-![5_(M,MONO)(%)](D:\COVID-19 Prediction Code\monofactor analysis\Severity_with_wbound\5_(M,MONO)(%).png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/5_(M%2CMONO)(%25).png)
 
-![4_Albumin](D:\COVID-19 Prediction Code\monofactor analysis\Severity_with_wbound\4_Albumin.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/4_Albumin.png)
 
-![3_Lym(%)](D:\COVID-19 Prediction Code\monofactor analysis\Severity_with_wbound\3_Lym(%).png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/3_Lym(%25).png)
 
-![2_DM](D:\COVID-19 Prediction Code\monofactor analysis\Severity_with_wbound\2_DM.png)![1_Sex](D:\COVID-19 Prediction Code\monofactor analysis\Severity_with_wbound\1_Sex.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/1_Sex.png)
 
-![6_Lactate dehydrogenase](D:\COVID-19 Prediction Code\monofactor analysis\Severity_with_wbound\6_Lactate dehydrogenase.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/6_Lactate%20dehydrogenase.png)
 
 - **S1_IgG antibody concentration prediction**
 
