@@ -26,8 +26,8 @@
 
 - **S1_IgG antibody concentration prediction**
 
-![WPS图片(1)](D:\COVID-19 Prediction Code\monofactor analysis\S1_IgG_with_wbound\WPS图片(1).png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_1.png)
 
-![WPS图片(2)](D:\COVID-19 Prediction Code\monofactor analysis\S1_IgG_with_wbound\WPS图片(2).png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_2.png)
 
-![WPS图片(3)](D:\COVID-19 Prediction Code\monofactor analysis\S1_IgG_with_wbound\WPS图片(3).png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_3.png)
