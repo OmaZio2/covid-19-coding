@@ -31,3 +31,5 @@
 ![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_2.png)
 
 ![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_3.png)
+
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_4.png)
