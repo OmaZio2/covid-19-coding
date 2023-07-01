@@ -63,60 +63,64 @@ plt.xticks([])
 plt.yticks([])
 
 
+# 变动1
 plt.subplot(333)
-sns.regplot(x='血_RBC分布宽度SD',y='S1_IgG',data=tips,fit_reg=False,scatter_kws={ "alpha":0.5,"s":1})
+sns.regplot(x='血_血小板计数',y='S1_IgG',data=tips,fit_reg=False,scatter_kws={ "alpha":0.5,"s":1})
 #sns.boxplot(x='血_RBC分布宽度SD',y='S1_IgG', data=tips,flierprops={"markersize":0.5},meanline=True,showmeans=True)
-plt.xlabel("RDW_SD") # x轴标题
+plt.xlabel("PLT") # x轴标题
 plt.ylabel("S1_IgG") # y轴标题
 plt.xticks([])
 plt.yticks([])
 
 
-
+# 变动2
 plt.subplot(334)
-sns.regplot(x ='血_血小板计数',y="S1_IgG",data=tips,fit_reg=False,scatter_kws={ "alpha":0.5,"s":1})
-plt.xlabel("RBC") # x轴标题
-plt.ylabel("S1_IgG") # y轴标题
-plt.xticks([])
-plt.yticks([])
-
-
-plt.subplot(335)
-sns.regplot(x ='血_嗜酸细胞(#)',y="S1_IgG",data=tips,fit_reg=False,scatter_kws={ "alpha":0.5,"s":1})
-plt.xlabel("Eos$\#$") # x轴标题
-plt.ylabel("S1_IgG") # y轴标题
-plt.xticks([])
-plt.yticks([])
-
-
-plt.subplot(336)
-sns.regplot(x ='血_eGFR(基于CKD-EPI方程)',y="S1_IgG",data=tips,fit_reg=True,scatter_kws={ "alpha":0.5,"s":1})
-plt.xlabel("eGFR(CKD-EPI)") # x轴标题
-plt.ylabel("S1_IgG") # y轴标题
-plt.xticks([])
-plt.yticks([])
-
-
-plt.subplot(337)
 sns.regplot(x ='血_乳酸脱氢酶',y="S1_IgG",data=tips,fit_reg=False,scatter_kws={ "alpha":0.5,"s":1})
 plt.xlabel("LDH") # x轴标题
 plt.ylabel("S1_IgG") # y轴标题
 plt.xticks([])
 plt.yticks([])
 
-
-plt.subplot(338)
-sns.regplot(x ='血_球蛋白',y="S1_IgG",data=tips,fit_reg=True,scatter_kws={ "alpha":0.5,"s":1})
-plt.xlabel("GLOB") # x轴标题
+# 变动3
+plt.subplot(335)
+sns.regplot(x ='血_eGFR(基于CKD-EPI方程)',y="S1_IgG",data=tips,fit_reg=True,scatter_kws={ "alpha":0.5,"s":1})
+plt.xlabel("eGFR(CKD-EPI)") # x轴标题
 plt.ylabel("S1_IgG") # y轴标题
 plt.xticks([])
 plt.yticks([])
 
+# 变动4
+plt.subplot(336)
+sns.regplot(x ='血_淋巴细胞(#)',y="S1_IgG",data=tips,fit_reg=True,scatter_kws={ "alpha":0.5,"s":1})
+plt.xlabel("Eos") # x轴标题
+plt.ylabel("S1_IgG") # y轴标题
+plt.xticks([])
+plt.yticks([])
+
+# 变动5
+plt.subplot(337)
+sns.regplot(x ='血_RBC分布宽度SD',y="S1_IgG",data=tips,fit_reg=False,scatter_kws={ "alpha":0.5,"s":1})
+plt.xlabel("RDW_SD") # x轴标题
+plt.ylabel("S1_IgG") # y轴标题
+plt.xticks([])
+plt.yticks([])
+
+# 变动6
+plt.subplot(338)
+sns.regplot(x ='血_血小板压积',y="S1_IgG",data=tips,fit_reg=True,scatter_kws={ "alpha":0.5,"s":1})
+plt.xlabel("PCT") # x轴标题
+plt.ylabel("S1_IgG") # y轴标题
+plt.xticks([])
+plt.yticks([])
+
+# 变动7
 plt.subplot(339)
-sns.regplot(x='血_氯',y='S1_IgG',data=tips,fit_reg=False,scatter_kws={ "alpha":0.5,"s":1})
+sns.regplot(x='血_总胆固醇',y='S1_IgG',data=tips,fit_reg=False,scatter_kws={ "alpha":0.5,"s":1})
 #sns.boxplot(x='血_氯',y='S1_IgG', data=tips,flierprops={"markersize":0.5},meanline=True,showmeans=True)
-plt.xlabel("Cl-")
+plt.xlabel("TCHO")
 plt.ylabel("S1_IgG")
 plt.xticks([])
 plt.yticks([])
-plt.show()
+
+plt.savefig("Top-9 predictor.pdf")
+
