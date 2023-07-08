@@ -40,10 +40,14 @@ ALB and LDH features, Sex, DM, MONO%, and LYMPH% features had the same correlati
 
 **S1_IgG antibody concentration prediction**
 
-![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_1.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/fig1%262.png)
 
-![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_2.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/fig3%264.png)
 
-![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_3.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/fig5%266.png)
 
-![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_4.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/fig7%268.png)
+
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/fig9.png)
+
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/fig10.png)
