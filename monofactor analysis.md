@@ -14,7 +14,10 @@
 
 ![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/clinical_outrate.png)
 
-In the results of the correlation analysis of clinical outcomes, we compared each characteristic of the patient at admission (a) and discharge (b) through Figure 1-5 and found that only the correlation of hs-CRP characteristics changed, while the correlation between admission and discharge of LDH, Neu#, Urea, and PLT characteristics remained unchanged. In Figure 6, we get the same result through the consistency test.
+   In the results of the correlation analysis of clinical outcomes, we compared each characteristic of the patient at admission (a) and discharge (b) through Figure 1-5 and found that only 
+ the correlation of hs-CRP characteristics changed, while the correlation between admission and discharge of LDH, Neu#, Urea, and PLT characteristics remained unchanged. In Figure 6, we 
+ get the same result through the consistency test.
+
 
 - **disease severity prediction**
 
