@@ -1,5 +1,0 @@
-在0.95的置信水平下，W_bound有交集，Outcome与LDH具有一致性,交集比例越大，一致性越强.
-在0.95的置信水平下，W_bound有交集，Outcome与Neutrophil具有一致性,交集比例越大，一致性越强.
-在0.95的置信水平下，W_bound有交集，Outcome与Urea具有一致性,交集比例越大，一致性越强.
-在0.95的置信水平下，W_bound有交集，Outcome与hs-CRP具有一致性,交集比例越大，一致性越强.
-在0.95的置信水平下，W_bound有交集，Outcome与Platelet count具有一致性,交集比例越大，一致性越强.
