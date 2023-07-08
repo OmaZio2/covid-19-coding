@@ -51,3 +51,5 @@ ALB and LDH features, Sex, DM, MONO%, and LYMPH% features had the same correlati
 ![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/fig9.png)
 
 ![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/fig10.png)
+
+   In the correlation analysis results of spike antibody, we compared each characteristic of the patient at admission (a) and discharge (b) through Figure 1-9 and found that only the correlation of LYMPH features changed, while the correlation between admission and discharge of Age, RDW_CV, PLT, LDH, eGFR(CKD-EPI), RDW_SD, PCT, and TCHO features remained unchanged. In Figure 10, we get the same result through the consistency test.
