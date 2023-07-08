@@ -1,4 +1,4 @@
-# monofactor analysis
+# correlation analysis
 
 - **clinical outcome prediction**
 
