@@ -1,6 +1,0 @@
-在0.95的置信水平下，W_bound有交集，Severity与Sex具有一致性,交集比例越大，一致性越强.
-在0.95的置信水平下，W_bound有交集，Severity与DM具有一致性,交集比例越大，一致性越强.
-在0.95的置信水平下，W_bound有交集，Severity与Lym(%)具有一致性,交集比例越大，一致性越强.
-在0.95的置信水平下，W_bound有交集，Severity与Albumin具有一致性,交集比例越大，一致性越强.
-在0.95的置信水平下，W_bound有交集，Severity与(M,MONO)(%)具有一致性,交集比例越大，一致性越强.
-在0.95的置信水平下，W_bound有交集，Severity与Lactate dehydrogenase具有一致性,交集比例越大，一致性越强.
