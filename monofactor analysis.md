@@ -19,19 +19,26 @@
  get the same result through the consistency test.
 
 
-- **disease severity prediction**
+**disease severity prediction**
 
-![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/5_(M%2CMONO)(%25).png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/sex.png)
 
-![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/4_Albumin.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/DM.png)
 
-![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/3_Lym(%25).png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/LYM.png)
 
-![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/1_Sex.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/ALB.png)
 
-![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/6_Lactate%20dehydrogenase.png)
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/MONO.png)
 
-- **S1_IgG antibody concentration prediction**
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/LDH.png)
+
+![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/Severity_with_wbound/severity_outrate.png)
+
+   In the correlation analysis results of disease severity, we compared each characteristic of the patient at admission (a) and discharge (b) through Figure 1-6 and found that except for 
+ALB and LDH features, Sex, DM, MONO%, and LYMPH% features had the same correlation with admission and discharge. In Figure 7, we get the same result through the consistency test.
+
+**S1_IgG antibody concentration prediction**
 
 ![](https://github.com/OmaZio2/covid-19-coding/blob/master/monofactor%20analysis/S1_IgG_with_wbound/pic_1.png)
 
