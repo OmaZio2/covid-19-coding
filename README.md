@@ -1,16 +1,22 @@
-# Prediction and attributes analysis of COVID-19 time series by ensemble learning and temporal deep learning models 
+#  Developing deep LSTM with time attention for screening serological indicators prediction COVID-19 severity, clinical outcome, and antibody level
 
 - **Objective：** 
-    This work explores the prediction and attributes analysis of COVID-19 time series by ensemble learning and temporal deep learning models.
+    This work discusses screening
+serologic indicators over time to predict COVID-19 disease severity, clinical outcomes, and Spike antibody levels. The clinical course, as well as the immunological reaction to COVID-19, is notable for its extreme variability. Identifying the main associated factors might help understand the variability, disease progression, and physiological status in patients. Deriving the dynamic changes of the antibody against Spike protein is crucial for understanding the im￾mune response.
+
 - **Methods:**
-    We use feature selection techniques to filter feature subsets highly correlated with the target.
-  Then, we propose two temporal deep learning models to predict disease severity and clinical outcome of COVID-19. Moreover, the dynamic changes of the antibody against Spike protein are crucial for understanding the immune response. We also utilize ensemble and temporal deep learning models to predict the Spike antibody level.
+    This work explores critical serological indicators and combines them with deep Long Short Term Memory (LSTM) time series models to accurately predict COVID-19 severity, clinical progression, and antibody prediction. We use feature selection techniques to filter feature sub￾sets highly correlated with the target. Then, we propose two temporal deep learning models to predict disease severity and clinical outcome. Moreover, We also use ensemble and temporal deep learning models to predict the Spike antibody level.
 - **Results:**  
-    In disease severity prediction, using the feature subsets of Hypertension,  LYMPH$\%$, Age, UA, A/G LDH, Diabetes, ALB, and Sex, the LSTM model achieves a classification accuracy of  0.76622. In clinical outcome prediction, using the feature subsets of Mono$\%$, INR, Neu$\#$, ALB, hs-CRP, PLT, Urea, and LDH, the TA-LSTM model achieves a classification accuracy of 0.98855. 
-  In Spike antibody level prediction, the proposed XGBoost model demonstrates the value of 0.353 in R2\_Squared using non-time-series data; the proposed LSTM model demonstrates the value of 0.494 in R2\_Squared using time-series data.
+    In disease severity prediction, The LSTM model
+has the highest classification accuracy. In clinical outcome prediction, the Temporal Attention Long Short Term Memory (TA-LSTM) model has the highest accuracy classification. In Spike antibody level prediction, the XGBoost model
+has the highest R2 value using non-time series; The LSTM model has the highest R2 value using the time series model.
 - **Discussion:**
     In conclusion, the significance of our work is threefold. 
-  Firstly, we provide not only high-risk factors of disease severity and clinical outcome but also reveal clinical characteristics that highly correlate with the dynamic changes in the Spike antibody level. Secondly,  we introduce the attention mechanism into the temporal deep learning model for clinical outcome prediction, demonstrating the temporal attention (TA) block's effectiveness in enhancing global temporal dependencies. Thirdly, the proposed models can provide a computer-aided medical diagnostics system to facilitate developing countries which does not have vaccination facility during this pandemic scenario. 
+  Firstly, we provide high-risk factors of disease
+severity and clinical outcome and reveal clinical charac￾teristics highly correlated with the dynamic changes in the Spike antibody level. Secondly, we introduce the attention mechanism into the temporal deep learning model
+for clinical outcome prediction, demonstrating the temporal
+attention (TA) block’s effectiveness in enhancing global
+temporal dependencies. Finally, the proposed models can provide a computer-aided medical diagnostics system to facilitate developing countries during this pandemic.
 
 ----------
 
