@@ -1,8 +1,9 @@
 # Developing deep LSTMs with later temporal attention for predicting COVID-19 severity,clinical outcome, and antibody level byscreening serological indicators over time
 
-- **Objective：** 
-    This work discusses screening
-serologic indicators over time to predict COVID-19 disease severity, clinical outcomes, and Spike antibody levels. The clinical course, as well as the immunological reaction to COVID-19, is notable for its extreme variability. Identifying the main associated factors might help understand the variability, disease progression, and physiological status in patients. Deriving the dynamic changes of the antibody against Spike protein is crucial for understanding the immune response.
+- **Objective：**
+    This repo holds code for [Developing deep LSTMs with later temporal attention for predicting COVID-19 severity,clinical outcome, and antibody level byscreening serological indicators over time
+]()
+    This work discusses screening serologic indicators over time to predict COVID-19 disease severity, clinical outcomes, and Spike antibody levels. The clinical course, as well as the immunological reaction to COVID-19, is notable for its extreme variability. Identifying the main associated factors might help understand the variability, disease progression, and physiological status in patients. Deriving the dynamic changes of the antibody against Spike protein is crucial for understanding the immune response.
 
 - **Methods:**
     This work explores critical serological indicators and combines them with deep Long Short Term Memory (LSTM) time series models to accurately predict COVID-19 severity, clinical progression, and antibody prediction. We use feature selection techniques to filter feature subsets highly correlated with the target. Then, we propose two temporal deep learning models to predict disease severity and clinical outcome. Moreover, We also use ensemble and temporal deep learning models to predict the Spike antibody level.
