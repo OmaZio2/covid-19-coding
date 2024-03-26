@@ -1,4 +1,4 @@
-# Developing deep LSTM with time attention for screening serological indicators prediction COVID-19 severity, clinical outcome, and antibody level
+# Developing deep LSTMs with later temporal attention for predicting COVID-19 severity,clinical outcome, and antibody level byscreening serological indicators over time
 
 - **Objective：** 
     This work discusses screening
